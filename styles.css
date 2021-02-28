@@ -1,0 +1,74 @@
+
+body{
+  background-color: rgb(203,205,183) !important;
+  text-align: center;
+
+}
+.bg_img{
+  position: absolute;
+  height: 100%;
+}
+#top{
+  height: 250px;
+  width: 250px;
+  left: 55%;
+  top: 5%;
+  position: absolute;
+  font-family: 'Kreon',serif;
+}
+.outer{
+  border: 2px solid #000;
+  padding-left: 10px;
+  position: absolute;
+  width: 190%;
+  height: 200%;
+  background-color: rgb(168,172,145);
+  color: #000;
+}
+.heading{
+  font-size: 2.5rem;
+  text-align: center;
+}
+.inner_head{
+  font-size: 1.5rem;
+}
+.inner_field{
+  font-size: 1.2rem;
+}
+.btn{
+  position: absolute;
+  bottom: 25%;
+  left: 35%;
+  font-size: 3rem;
+  background-color: rgb(230, 70, 70);
+  color: #fff;
+}
+.output_text{
+  position: relative;
+  top: 25%;
+  font-size:1.5rem;
+  color: rgb(230, 70, 70);
+}
+/* .btn_calculate {
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+  position: absolute;
+  margin: 10% 35%;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	padding:16px 31px;
+  font-family: 'Kreon',serif;
+	text-shadow:0px 1px 0px #2f6627;
+  font-size: 1.5rem;
+}
+.btn_calculate:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+.btn_calculate:active {
+	position:relative;
+	top:1px;
+} */
